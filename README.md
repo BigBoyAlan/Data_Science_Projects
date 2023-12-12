@@ -29,7 +29,7 @@ This project explores the factors affecting the prices of Cryptopunks, a popular
 - Libraries: tidyr, ggplot2
 - Techniques: Data cleaning and preprocessing, transformations for variance stabilization, exploratory data analysis with boxplots, ANOVA modeling
 
-Link to Project
+[Link to Project](Cryptopunk_ANOVA/ANOVA.ipynb)
 
 ### Time Series Modeling - in progress
 
