@@ -17,7 +17,7 @@ This project involves a detailed regression analysis of Ethereum's (ETH) trading
 - Libraries: ggplot2, dplyr, reshape2, car
 - Techniques: Data cleaning, correlation analysis, visualization (time series and box plots), linear regression modeling
 
-Link to Project
+[Link to Project](Ethereum_Volume_Regression/Regression_Model.ipynb)
 
 ### Cryptopunk Price ANOVA Modeling
 
