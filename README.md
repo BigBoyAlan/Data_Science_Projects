@@ -49,7 +49,7 @@ This project conducts an exploratory data analysis on a sleep health and lifesty
 - Libraries: Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Scikit-learn
 - Techniques: Data preprocessing (splitting blood pressure data, merging BMI categories), data visualization (bar plots, heatmaps), correlation analysis, data preparation for modeling, linear regression modeling
 
-Link to Project
+[Link to Project](Sleep_EDA/Sleep_EDA.ipynb)
 
 ### League of Legends Winrate Analysis
 
